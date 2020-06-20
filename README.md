@@ -10,4 +10,4 @@ The project is aimed to implement the following features:
 2. Categorised section of sport products for each and individual sport
 3. Options to either buy or add to cart and proceed shopping
 4. Simulates Mode of payments as in real online shopping websites
-5. Calculates discounts and Generates bill accordingly 
+5. Calculates discounts and generates bill accordingly 
